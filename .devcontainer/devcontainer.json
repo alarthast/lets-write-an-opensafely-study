@@ -9,6 +9,7 @@
     },
     "postCreateCommand": "/bin/bash /opt/devcontainer/postCreate.sh ${containerWorkspaceFolder}",
     "postAttachCommand": "/bin/bash /opt/devcontainer/postAttach.sh",
+    "postStartCommand": ["/bin/bash opensafely pull ehrql:v1","/bin/bash opensafely pull python:v2","/bin/bash opensafely pull r:latest"],
     "forwardPorts": [
         8787
     ],
