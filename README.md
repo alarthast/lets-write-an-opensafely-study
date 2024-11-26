@@ -1,6 +1,6 @@
 # Let's write an OpenSAFELY Study Together
 
-2024 [OpenSAFELY](https://opensafely.orgg) Symposium
+2024 [OpenSAFELY](https://opensafely.org) Symposium
 
 
 This repository contains example data designed to support investigation of
